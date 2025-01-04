@@ -15,6 +15,9 @@
         <div class="relative w-full h-96 flex-shrink-0">
             <a href="{{ .RelPermalink }}" class="hover:cursor-pointer">
                 {{ $image := partial "imagextractor.html" (dict "context" .) }}
+                {{/* *****{{ $image }}*******
+                ===={{ .Page.Kind }}+++++
+                ===={{ .Page.Params.featured_image | absURL }}==== */}}
                 {{ if not (hasPrefix $image.url "data:image/") }}
                 <img src="{{ $image.url }}" alt="{{ $image.alt}}" class="w-full h-96 object-cover rounded-lg">
                 {{ else }}

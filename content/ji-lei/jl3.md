@@ -1,5 +1,5 @@
 +++
-title = '每周积累文章3'
+title = '每周积累文章33'
 date = 2024-12-15T09:34:12+08:00
 categories = ["每周积累"]
 tags = ["jilei"]
@@ -7,7 +7,7 @@ tags = ["jilei"]
 #description = "SEO Description Here"
 draft = false
 
-featuredImage = "/image/recommends/665x380.jpg"
+featured_image = "/image/recommends/665x380.jpg"
 
 +++
 
