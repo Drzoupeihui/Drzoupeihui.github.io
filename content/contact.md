@@ -15,3 +15,4 @@ draft = false
 
 备注：CT、照片资料可通过邮箱发送交流
 
+![好大夫二维码](https://github.com/user-attachments/assets/a495a9ea-27a6-4d5a-8e9f-5a440c1198b5)
