@@ -1,16 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://drzoupeihui.github.io/zh/sitemap.xml</loc>
-    
-      <lastmod>2024-12-23T08:16:03+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://drzoupeihui.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://drzoupeihui.github.io/</loc>
+    <lastmod>2024-12-15T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/categories/</loc>
+    <lastmod>2024-12-15T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/ji-lei/</loc>
+    <lastmod>2024-12-15T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/tags/jilei/</loc>
+    <lastmod>2024-12-15T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/tags/</loc>
+    <lastmod>2024-12-15T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/categories/%E6%AF%8F%E5%91%A8%E7%A7%AF%E7%B4%AF/</loc>
+    <lastmod>2024-12-15T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/ji-lei/example2/</loc>
+    <lastmod>2024-12-15T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/ji-lei/jl3/</loc>
+    <lastmod>2024-12-15T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/tags/eg1---en/</loc>
+    <lastmod>2024-12-11T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/gan-wu/</loc>
+    <lastmod>2024-12-11T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/zhuan-ti/</loc>
+    <lastmod>2024-12-11T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/tags/zhuanti/</loc>
+    <lastmod>2024-12-11T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/categories/%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2024-12-11T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/gan-wu/example1/</loc>
+    <lastmod>2024-12-11T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/ji-lei/example1/</loc>
+    <lastmod>2024-12-11T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/categories/%E4%B8%93%E9%A2%98/</loc>
+    <lastmod>2024-12-11T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/zhuan-ti/example1/</loc>
+    <lastmod>2024-12-11T09:34:12+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/contact/</loc>
+    <lastmod>2024-10-25T09:16:03+08:00</lastmod>
+  </url><url>
+    <loc>https://drzoupeihui.github.io/search/</loc>
+    <lastmod>2024-09-03T10:17:20+08:00</lastmod>
+  </url>
+</urlset>

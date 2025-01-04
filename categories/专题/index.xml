@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>专题 on </title>
+    <link>https://drzoupeihui.github.io/categories/%E4%B8%93%E9%A2%98/</link>
+    <description>Recent content in 专题 on </description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 11 Dec 2024 09:34:12 +0800</lastBuildDate>
+    <atom:link href="https://drzoupeihui.github.io/categories/%E4%B8%93%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>专题文章1</title>
+      <link>https://drzoupeihui.github.io/zhuan-ti/example1/</link>
+      <pubDate>Wed, 11 Dec 2024 09:34:12 +0800</pubDate>
+      <guid>https://drzoupeihui.github.io/zhuan-ti/example1/</guid>
+      <description>Example 1 Content - EN Content should be placed within the language directory, for example, English.&#xA;|---content/en |---/example1 |---example1-1.md |---example1-2.md |---/example2 |---example2-1.md |---example2-2.md |---example2-3.md |---content/fr |---content/zh |---content/de Example 1 Ignore Posts To exclude posts like cookie.md, privacy.md, and terms.md, configure the site parameters as follows:&#xA;[params] [params.ignore] categories = [&amp;#34;privacy&amp;#34;, &amp;#34;terms&amp;#34;, &amp;#34;archives&amp;#34;, &amp;#34;cookie&amp;#34;] The content structure is as follows, and posts to be ignored must have categories specified in their front matter.</description>
+    </item>
+  </channel>
+</rss>
