@@ -1,7 +1,7 @@
 +++
-title = 'Example1 Title - EN'
+title = '每周感悟1'
 date = 2024-12-11T09:34:12+08:00
-categories = ["Example 1 - EN"]
+categories = ["感悟"]
 tags = ["eg1 - en"]
 keywords = ["SEO", "Keywords", "Here"]
 description = "SEO Description Here"

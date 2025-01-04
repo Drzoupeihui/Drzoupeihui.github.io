@@ -1,62 +1,60 @@
+
+
 baseURL = "https://drzoupeihui.github.io/"
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
-disqusShortname = "guangmean"   # Optional
+#defaultContentLanguageInSubdir = true
+#disqusShortname = "guangmean"   # Optional
 
 staticDir = ["static", "themes/Niello/static"]
 
 theme = "Niello"
 
 [languages]
-	[languages.en]
-		languageCode = "en-us"
-		LanguageName = "🇺🇸EN"
-		contentDir = "content/en"
-		weight = 2
-		[[languages.en.menus.main]]
-			name = 'exampleHome'
-			pageRef = '/'
-			weight = 1
-		[[languages.en.menus.main]]
-			name = 'exampleCategories'
-			pageRef = '/categories'
-			weight = 2
-		[[languages.en.menus.main]]
-			name = 'exampleTags'
-			pageRef = '/tags'
-			weight = 3
 	[languages.zh]
         languageCode = "zh-cn"
         LanguageName = "🇨🇳CN"
-        contentDir = "content/zh"
+        contentDir = "content"
         weight = 1
 		[[languages.zh.menus.main]]
-			name = 'example首页'
+			name = '首页'
 			pageRef = '/'
 			weight = 1
 		[[languages.zh.menus.main]]
-			name = 'example文章分类'
+			name = '分类'
 			pageRef = '/categories'
 			weight = 2
 		[[languages.zh.menus.main]]
-			name = 'example标签'
-			pageRef = '/tags'
+			name = '专题'
+			pageRef = '/categories/专题'
 			weight = 3
+		[[languages.zh.menus.main]]
+			name = '接诊感悟'
+			pageRef = '/categories/感悟'
+			weight = 30
+		[[languages.zh.menus.main]]
+			name = '每周积累'
+			pageRef = '/categories/每周积累'
+			weight = 40
+		[[languages.zh.menus.main]]
+			name = '联系'
+			pageRef = '/contact'
+			weight = 50
 
 [params]
-[params.google]
-#	google_ad_client = "******"
-#	ga4 = "******"
-[params.bannershowcase]
-	categories = ["Example 1 - EN"]
-	limit = 2
-[params.email]
-	contact = "example@gmail.com"
-[params.ignore]
-#	categories = ["privacy", "terms", "archives", "cookie"]
+	copyright = "&#xA9; 2024 ~ 2025 by drzoupeihui.github.io All Rights Reserved."
+	sharethis = "******"
+	[params.google]
+	#	google_ad_client = "******"
+	#	ga4 = "******"
+	[params.bannershowcase]
+		categories = ["每周积累"]
+		limit = 2
+	[params.email]
+		contact = "example@gmail.com"
+	[params.ignore]
+	#	categories = ["privacy", "terms", "archives", "cookie"]
 
-copyright = "&#xA9; 2019 ~ 2024 by www.example.com All Rights Reserved."
-sharethis = "******"
+
 
 [outputs]
   home = ["HTML", "JSON"]   # Optional - JSON just for search

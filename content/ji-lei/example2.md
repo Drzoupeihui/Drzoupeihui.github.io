@@ -1,14 +1,15 @@
 +++
-title = 'Example2 Title - ZH'
-date = 2024-12-11T09:34:12+08:00
-categories = ["Example 22 - ZH"]
-tags = ["cn2 - zh"]
-keywords = ["SEO", "Keywords", "Here"]
-description = "SEO Description Here"
+title = '每周积累文章2'
+date = 2024-12-15T09:34:12+08:00
+categories = ["每周积累"]
+tags = ["jilei"]
+#keywords = ["SEO", "Keywords", "Here"]
+#description = "SEO Description Here"
 draft = false
+
 +++
 
-## Example 2 Content - ZH
+## Example 22 Content - ZH
 
 Content 22 should be placed within the language directory, for example, Chinese.
 
