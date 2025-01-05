@@ -1,5 +1,5 @@
 +++
-title = '每周感悟——所有人都会老掉牙吗？'
+title = '接诊感悟——所有人都会老掉牙吗？'
 date = 2024-12-11T09:34:12+08:00
 categories = ["感悟"]
 tags = ["eg1 - en"]
@@ -24,4 +24,4 @@ draft = false
 
 ## Example 1 Image
 
-![Example1 Image](/example/example1.png)
+![Example1 Image](/example/example1.png) 
